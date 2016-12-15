@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Blocks>
+	<Block id="1">
+		<Cblock xstart="0" ystart="0" zstart="0" xlength="3" ylength="1" zlength="2"/>
+		<Cblock xstart="0" ystart="2" zstart="0" xlength="3" ylength="1" zlength="2"/>
+		<Cblock xstart="1" ystart="1" zstart="0" xlength="2" ylength="1" zlength="1"/>
+		<Cblock xstart="0" ystart="1" zstart="1" xlength="2" ylength="1" zlength="1"/>
+	</Block>
+</Blocks>

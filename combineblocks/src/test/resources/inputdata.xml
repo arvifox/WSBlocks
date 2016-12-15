@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Blocks>
+	<Block id="1" sizex="3" sizey="3" sizez="2">
+		<Hole x="2" y="1" z="1"/>
+	</Block>
+</Blocks>

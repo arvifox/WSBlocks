@@ -1,0 +1,1 @@
+java -jar jwsclient.jar "ws://localhost:8098/myjetty" "i.xml" "o.xml"
